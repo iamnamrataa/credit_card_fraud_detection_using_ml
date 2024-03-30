@@ -2,9 +2,7 @@
 Credit card fraud detection System  using machine learning 
 
 Technology Used:
-Python
-Machine Learning
-
+Python , Machine Learning
 DataSet link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 Algorithm Used : Logistic regression
